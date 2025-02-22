@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "root",
+			"path": "."
+		},
+		{
+			"name": "app",
+			"path": "./app"
+		},
+		{
+			"name": "cdk",
+			"path": "./cdk"
+		}
+	],
+	"settings": {}
+}
